@@ -1,4 +1,4 @@
-module github.com/mohamedsamara/go-postgres-docker-hub
+module github.com/mohamedsamara/go-postgres-docker
 
 go 1.19
 

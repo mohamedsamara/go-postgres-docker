@@ -17,6 +17,7 @@
   "dependencies": {
     "@fontsource/archivo": "^5.0.8",
     "@fontsource/poppins": "^5.0.8",
+    "@heroicons/vue": "^2.0.18",
     "classnames": "^2.3.2",
     "pinia": "^2.0.36",
     "vue": "^3.3.2",

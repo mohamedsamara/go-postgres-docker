@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/go-chi/chi/v5"
-	"github.com/mohamedsamara/go-postgres-docker-hub/frontend"
+	"github.com/mohamedsamara/go-postgres-docker/frontend"
 )
 
 func IndexRoutes() chi.Router {

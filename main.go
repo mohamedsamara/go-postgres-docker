@@ -8,8 +8,8 @@ import (
 
 	"github.com/joho/godotenv"
 
-	"github.com/mohamedsamara/go-postgres-docker-hub/db"
-	"github.com/mohamedsamara/go-postgres-docker-hub/routes"
+	"github.com/mohamedsamara/go-postgres-docker/db"
+	"github.com/mohamedsamara/go-postgres-docker/routes"
 )
 
 func main() {
