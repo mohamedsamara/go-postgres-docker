@@ -20,6 +20,11 @@ export class HttpClient {
     }
 
     const endpoint = `${this.domain}${payload.path}`
+
+    console.log('this.domain', this.domain)
+    console.log('payload.path', payload.path)
+    console.log('endpoint', endpoint)
+
     return fetch(endpoint, request)
   }
 
